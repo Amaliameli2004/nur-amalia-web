@@ -139,9 +139,6 @@ body {
   font-size: 14px;
 }
 
-/* ===============================
-   FOKUS PENELITIAN GRID
-   =============================== */
 
 .grid-3 {
   display: grid;
@@ -167,9 +164,6 @@ body {
   margin-bottom: 10px;
 }
 
-/* ===============================
-   2 KOLOM (HIGHLIGHT)
-   =============================== */
 
 .grid-2 {
   display: grid;
@@ -178,9 +172,6 @@ body {
   margin: 50px 0;
 }
 
-/* ===============================
-   PAGE HEADER
-   =============================== */
 
 .page-header {
   margin: 40px 0 20px;
@@ -195,9 +186,6 @@ body {
   color: var(--text-light);
 }
 
-/* ===============================
-   LIST 2 KOLOM
-   =============================== */
 
 .two-column {
   display: grid;
@@ -207,9 +195,6 @@ body {
   margin-bottom: 20px;
 }
 
-/* ===============================
-   PROYEK GRID
-   =============================== */
 
 .project-grid {
   display: grid;
@@ -238,9 +223,6 @@ body {
   color: var(--text-light);
 }
 
-/* ===============================
-   MODULE LIST
-   =============================== */
 
 .module-card {
   background: var(--white);
@@ -250,9 +232,6 @@ body {
   margin-bottom: 15px;
 }
 
-/* ===============================
-   MEMBER GRID
-   =============================== */
 
 .member-grid {
   display: grid;
@@ -290,9 +269,6 @@ body {
   font-size: 14px;
 }
 
-/* ===============================
-   FOOTER
-   =============================== */
 
 .site-footer {
   background: var(--white);
@@ -307,9 +283,6 @@ body {
   color: var(--text-light);
 }
 
-/* ===============================
-   RESPONSIVE
-   =============================== */
 
 @media (max-width: 900px) {
   .hero {
@@ -347,3 +320,4 @@ body {
     gap: 10px;
   }
 }
+
